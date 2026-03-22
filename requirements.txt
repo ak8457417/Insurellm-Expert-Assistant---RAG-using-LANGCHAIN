@@ -1,4 +1,5 @@
 python-dotenv
+langchain-huggingface
 ipykernel
 ipywidgets
 requests
